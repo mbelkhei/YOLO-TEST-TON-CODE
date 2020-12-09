@@ -8,10 +8,10 @@
 4. Creéz votre environment conda avec la commande
    `bash >>> ./conda_script.sh`
 5. Vous devez taper le dossier où se trouve votre Anaconda3. Example: `/d/donnees/belkheir/appdata`
-6. Le message "Your conda environment is ready to be used" vous indique que votre environment est prêt
+6. Le message "Activating your yolo_test_env" vous indique que votre environment est prêt
 8. `(yolo_test_env)>>>$`
 9. Mettez vous sur votre branch (ie: `git checkout -b groupe1 origin/groupe-1`)
-10. vous êtes prêts !
+10. vous êtes prêts à tester votre code ;) !
 
 
 
