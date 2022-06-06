@@ -3,7 +3,7 @@
 
 #### Getting started:
 
-1. Clone repo: `git clone https://github.com/mbelkhei/YOLO-TEST-TON-CODE.git
+1. Clone repo: git clone https://github.com/mbelkhei/YOLO-TEST-TON-CODE.git
 2. placez vous dans le repertoire parent : ***yolo-test-ton-code***
 3. Assurez vous que vous êtes sur la branch ***master*** (`git checkout master`)
 4. Creéz votre environment conda avec la commande
