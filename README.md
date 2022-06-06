@@ -3,12 +3,12 @@
 
 #### Getting started:
 
-1. Clone repo: git clone https://github.com/mbelkhei/YOLO-TEST-TON-CODE.git
+1. Clone repo: `git clone https://github.com/mbelkhei/YOLO-TEST-TON-CODE.git`
 2. placez vous dans le repertoire parent : ***yolo-test-ton-code***
 3. Assurez vous que vous êtes sur la branch ***master*** (`git checkout master`)
 4. Creéz votre environment conda avec la commande
    `bash >>> ./condaenv.sh`
-5. Indiquez le dossier où se trouve votre Anaconda3. Example: `/d/donnees/belkheir/appdata`
+5. Indiquez le dossier où se trouve votre Anaconda3. Example: `/d/donnees/user/appdata`
 6. Le message **"Activating your yolo_test_env"** vous indique que votre environment est prêt
 7. `(yolo_test_env)>>>$`
 8. Mettez vous sur votre branch (ie: `(yolo_test_env)>>>git checkout -b groupe-1 origin/groupe-1`)
